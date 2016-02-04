@@ -1,0 +1,27 @@
+{
+  "name": "expedia",
+  "version": "1.0.0",
+  "description": "Expedia FB Messenger Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InternetExplorer7/ExpediaHack.git"
+  },
+  "author": "Kaveh Khorram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InternetExplorer7/ExpediaHack/issues"
+  },
+  "homepage": "https://github.com/InternetExplorer7/ExpediaHack#readme",
+  "dependencies": {
+    "bhttp": "^1.2.1",
+    "bluebird": "^3.1.5",
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4",
+    "mongoose": "^4.3.7",
+    "node-wit": "^2.0.0"
+  }
+}
